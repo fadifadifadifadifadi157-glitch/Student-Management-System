@@ -348,4 +348,6 @@ GitHub repository:
 
 https://github.com/fadifadifadifadifadi157-glitch/Student-Management-System
 
+## License
+
 No license is currently specified in the project.
