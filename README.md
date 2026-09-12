@@ -342,13 +342,10 @@ This project is useful for practicing:
 
 ## Author
 
-**Student Management System**
+**Fowad Ajmal**
 
 GitHub repository:
 
 https://github.com/fadifadifadifadifadi157-glitch/Student-Management-System
 
-## License
-
-No license is currently specified in the provided project/repository
-information.
+No license is currently specified in the project.
